@@ -7,12 +7,7 @@ import {
 import { Navbar } from "./components";
 import Pdf from "./container/About/Pdf/Pdf";
 import "./App.scss";
-// import About from './components/About.js';
-// import Footer from './components/Footer.js';
-// import Header from './components/Header.js';
-// import Skills from './components/Skills.js';
-// import Testimonial from './components/Testimonial.js';
-// import Work from './components/Work.js';
+import './App.css'
 
 function App() {
   return (
