@@ -8,12 +8,12 @@ import pdf from '../../../assets/pdf/20BIT303-Resume - Copy.pdf';
 
 const Pdf = () => {
     const [defaultPdfFile] = useState(pdf)
-return  (
-    <div className="pdf__container">
-        <p>Bonjour</p>
-    constDefaultLayoutPluginInstance = defaultLayoutPlugin();
-    </div>
-);
+    return (
+        <div className="pdf__container">
+            <p>Bonjour</p>
+            constDefaultLayoutPluginInstance = defaultLayoutPlugin();
+        </div>
+    );
 }
 
 export default Pdf;
